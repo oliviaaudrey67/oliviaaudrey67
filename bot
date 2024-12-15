@@ -1,0 +1,4 @@
+git remote add origin https://github.com/oliviaaudey67/crypto-bot.git
+origin  https://github.com/oliviaaudey67/crypto-bot.git (fetch)
+origin  https://github.com/oliviaaudey67/crypto-bot.git (push)
+git remote -v
